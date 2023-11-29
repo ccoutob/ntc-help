@@ -1,0 +1,1 @@
+{"cd_agenda":1,"nm_medico":"bélico","ds_medicamentos":"rivotril/cachaça","nr_intervalo":12,"dt_inicio":"Oct 10, 2025, 12:00:00 AM","dt_fim":"Nov 10, 2025, 12:00:00 AM","cd_paciente":1}
