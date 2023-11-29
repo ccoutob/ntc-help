@@ -43,14 +43,18 @@
 | PUT    | /api/paciente/&lt;id&gt;      | Atualizar um paciente     |
 | DELETE | /api/paciente/&lt;id&gt;      | Deletar um paciente       |
 
-### 📃 Apólice
-| Método | Endpoint                     | Descrição                |
-| ------ | ---------------------------- | ------------------------ |
-| GET    | /api/apolice                 | Listar todas as apolices |
-| GET    | /api/apolice/&lt;id&gt;      | Buscar apolice pelo id   |
-| POST   | /api/apolice                 | Cadastrar uma apolice    |
-| PUT    | /api/apolice/&lt;id&gt;      | Atualizar uma apolice    |
-| DELETE | /api/apolice/&lt;id&gt;      | Deletar uma apolice      |
+### 📃 Agenda de Acompanhamento
+| Método | Endpoint                                        | Descrição               |
+| ------ | ------------------------------------------------| ------------------------|
+| GET    | /api/agenda                                     | Listar todas as agendas |
+| GET    | /api/agenda/pesquisaPorMedico/{nomeMedico}      | Buscar agenda pelo id   |
+| GET    | /api/agenda                                     | Listar todas as agendas |
+| POST   | /api/agenda                                     | Cadastrar uma agenda    |
+| PUT    | /api/agenda/&lt;id&gt;                          | Atualizar uma agenda    |
+| DELETE | /api/agenda/&lt;id&gt;                          | Deletar uma agenda      |
    
-   
+### ❗️Dados adicionais para a funcionalidade do projeto
+<li>O NTC Health foi desenvolvido com o servidor tomcat na versão 10.1</li> 
+<li>Os dados devem ser passados ao POSTMAN para realizar a requisição na Web e Banco de dados   </li>
+ 
 
