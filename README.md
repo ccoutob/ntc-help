@@ -57,4 +57,8 @@
 <li>O NTC Health foi desenvolvido com o servidor tomcat na versão 10.1</li> 
 <li>Os dados devem ser passados ao POSTMAN para realizar a requisição na Web e Banco de dados   </li>
  
+### 📋 Documentação do projeto
+Acesse a documentação do NTC Health <a href="https://github.com/ccoutob/GlobalSolutionFiap/blob/main/NTC%20HEALTH%20-%20Documenta%C3%A7%C3%A3o.pdf">AQUI</a> 
 
+### 🧑🏻‍💻 Autor 
+> Cauã Couto Basques - Turma 1TDSS
