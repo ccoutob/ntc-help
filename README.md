@@ -30,7 +30,7 @@
 
 <h2 name="endpoints">🌐 Endpoints</h2>
 
-### ❗ PS: Lembre sempre do /api antes de cada endpoint
+### ❗ PS: Lembre sempre do /NTC-Health antes de cada endpoint
 
 ### 😷 Paciente
 
