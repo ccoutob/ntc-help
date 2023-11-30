@@ -2,6 +2,12 @@
 <br>NTC Health 💊
 </h1>
 
+<div align="center">
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ccoutob/GlobalSolutionFiap/blob/main/LICENSE)
+ 
+</div>
+
 > Repositório dedicado ao projeto NTC Health (Java) - desenvolvido para atender as demandas da Global Solution com a empresa parceira Hapvida NotreDame Intermédica pelo primeiro ano em ADS na FIAP!
 
 <h2>📝Desafio</h2>
